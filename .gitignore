@@ -2,4 +2,5 @@
 target
 *.iml
 /.project
+/.idea
 /installer/tmp
