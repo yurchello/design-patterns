@@ -18,6 +18,8 @@
         <module>observer-pattern</module>
         <module>template-method-pattern</module>
         <module>builder-pattern</module>
+        <module>state-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
     <build>
         <plugins>
