@@ -20,6 +20,7 @@
         <module>builder-pattern</module>
         <module>state-pattern</module>
         <module>strategy-pattern</module>
+        <module>proxy-pattern</module>
     </modules>
     <build>
         <plugins>
